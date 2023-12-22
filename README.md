@@ -1,6 +1,4 @@
 ---
-title: test
-  a: b
+a: b
+ c: d
 ---
-
-# Testing
